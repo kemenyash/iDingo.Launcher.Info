@@ -1,6 +1,6 @@
 {
 "products": {
-  "categories":"https://raw.githubusercontent.com/kemenyash/iDingo.Launcher.Info/main/Products/Categories.json"
+  "categories":"https://raw.githubusercontent.com/kemenyash/iDingo.Launcher.Info/main/Products/Categories.json",
   "resume": "https://raw.githubusercontent.com/kemenyash/iDingo.Launcher.Info/main/Products/Resume.json"
 }
 }
