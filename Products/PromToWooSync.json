@@ -6,8 +6,16 @@
   "category": {
   "id": 1
 },
-  "price": 30,
-  "currency": "USD",
+  "prices": 
+  [
+    {
+      "title": "Regular",
+      "licenses_count": 1,
+      "cost": 17,
+      "referal_bonus": 1,
+      "currency": "USD"
+    }
+  ],
   "description": null,
   "images": null,
   "lastUpdate": "0001-01-01T00:00:00"
