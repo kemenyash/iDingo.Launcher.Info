@@ -2,7 +2,7 @@
   "uid": "12b2e947-157d-4f12-b0d5-5c19e44102bb",
   "title": "Prom.ua to Woo sync",
   "version": "1.0",
-  "coverUrl": "https://infogra.ru/wp-content/uploads/2016/11/xcepqgdgdxfod13zibc2-666x503.jpg",
+  "cover_url": "https://infogra.ru/wp-content/uploads/2016/11/xcepqgdgdxfod13zibc2-666x503.jpg",
   "category": {
   "id": 1
 },
@@ -13,10 +13,12 @@
       "licenses_count": 1,
       "cost": 17,
       "referal_bonus": 1,
-      "currency": "USD"
+      "currency": "USD",
+      "advantages": ["", ""],
+      "payment_url": ""
     }
   ],
-  "description": null,
-  "images": null,
+  "description": "",
+  "images": ["", "", ""],
   "lastUpdate": "0001-01-01T00:00:00"
 }
