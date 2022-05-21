@@ -14,11 +14,38 @@
       "cost": 17,
       "referal_bonus": 1,
       "currency": "USD",
-      "advantages": ["", ""],
-      "payment_url": ""
+      "advantages": ["unlimited", "ticket_system"],
+      "payment_url": "https://pay.idingo.com.ua/"
+    },
+    {
+      "title": "Premium",
+      "licenses_count": 2,
+      "cost": 28,
+      "referal_bonus": 1,
+      "currency": "USD",
+      "advantages": ["unlimited", "ticket_system", "premium_support", "development_community"],
+      "payment_url": "https://pay.idingo.com.ua/"
+    },
+    {
+      "title": "Pro",
+      "licenses_count": 1,
+      "cost": 40,
+      "referal_bonus": 1,
+      "currency": "USD",
+      "advantages": ["unlimited", "ticket_system", "premium_support", "development_community", "one_hour_develop"],
+      "payment_url": "https://pay.idingo.com.ua/"
     }
   ],
   "description": "",
-  "images": ["", "", ""],
+  "developer_time":[
+  {
+    "cost_per_hour" : 12,
+    "currency": "USD",
+    "payment_url":"https://pay.idingo.com.ua/"
+  }
+],
+  "images": ["https://infogra.ru/wp-content/uploads/2016/11/xcepqgdgdxfod13zibc2-666x503.jpg", 
+    "https://infogra.ru/wp-content/uploads/2016/11/xcepqgdgdxfod13zibc2-666x503.jpg", 
+    "https://infogra.ru/wp-content/uploads/2016/11/xcepqgdgdxfod13zibc2-666x503.jpg"],
   "lastUpdate": "0001-01-01T00:00:00"
 }
